@@ -1,0 +1,7 @@
+{
+  "name": "ionicApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
